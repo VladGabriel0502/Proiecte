@@ -1,0 +1,2 @@
+In folderul Sala_de_fitnessDB se gasesc codurile sursa aspxs.cs pentru implementarea paginilor aspx respective, de asemenea este pus si o copie de la formatul din Visual Code pentru cazul in care se doreste observarea lor in ansamblu.
+Proiectul consta in elaborarea unei baza de date corespunzatoare unei firme ce gestioneaza mai multe sali si are ca scop crearea unei interfete grafice care sa fie conectata la baza de date si prin intermediul careia sa putem face diverse operatii asupra acesteia.

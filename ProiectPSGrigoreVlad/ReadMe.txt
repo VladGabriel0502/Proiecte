@@ -1,0 +1,1 @@
+Proiectul are drept scop gasirea celei mai bune ferestre care sa aproximeze filtrul trece-jos ideal.
